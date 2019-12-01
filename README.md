@@ -1,1 +1,1 @@
-# Prediction-of-Diabetes-Using-DifferentMachine-Learning-Classifiers
+# Prediction-of-Diabetes-Using-Different-Machine-Learning-Classifiers
