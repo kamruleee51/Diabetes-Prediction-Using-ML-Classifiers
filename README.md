@@ -5,7 +5,7 @@ Diabetes is a kind of metabolic diseases which forms by lack of insulin due to m
 
 After having Pima Dataset, we preprocessed the data like outlier rejection, filling missing values, data standardization, and dimensionality reduction of the attribute. After preprocessing, 5-fold Cross Validation technique is used for model selection and error estimation of classifiers. In our proposal, 4 folds and grid search algorithm were used to train and fine-tune the hyper-parameters in the inner loop whereas remaining fold is used for testing the model. After these processing, k-NN, DT, AB, RF, NB, and XB were implemented. Again, the ensembling of the ML model using a group of classifiers is used to improve the precision of the prediction. 
 
-From all the models in the experiment, XGBoost performed better with sensitivity, specificity, false omission rate, diagnostic odds ratio, and AUC as: 0.768, 0.943, 0.100,71.369, and 0.946 respectively. The proposed ensembling model outperforms XGBoost and state of the art results by 0.40 % and 2.00 % respectively in AUC. 
+From all the models in the experiment, XGBoost performed better with sensitivity, specificity, false omission rate, diagnostic odds ratio, and AUC as: 0.768, 0.943, 0.100, 71.369, and 0.946 respectively. The proposed ensembling model outperforms XGBoost and state of the art results by 0.40 % and 2.00 % respectively in AUC. 
 
 The more details of the proposed framework are coming soon- <br>
 
