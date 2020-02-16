@@ -8,7 +8,7 @@ After having Pima Dataset, we preprocessed the data like outlier rejection, fill
 From all the models in the experiment, XGBoost performed better with sensitivity, specificity, false omission rate, diagnostic odds ratio, and AUC as: 0.768, 0.943, 0.100, 71.369, and 0.946 respectively. The proposed ensembling model outperforms XGBoost and state of the art results by 0.40 % and 2.00 % respectively in AUC. 
 
 All the results results reported in the literature were produced using the following version: <br>
-** python 3.6.5 <br>
+- python 3.6.5 <br>
 numpy                1.18.1 <br>
 pandas               1.0.0 <br>
 matplotlib           3.1.2 <br>
