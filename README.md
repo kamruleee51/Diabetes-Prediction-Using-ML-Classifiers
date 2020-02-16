@@ -9,14 +9,14 @@ From all the models in the experiment, XGBoost performed better with sensitivity
 
 All the results results reported in the literature were produced using the following version: <br>
 - python 3.6.5 <br>
-numpy                1.18.1 <br>
-pandas               1.0.0 <br>
-matplotlib           3.1.2 <br>
-seaborn              0.10.0 <br>
-scikit-learn         0.22.1 <br>
-PyXGBoost            1.0.9 <br>
-xgboost              0.90 <br>
-scipy                1.4.1 <br>
+- numpy                1.18.1 <br>
+- pandas               1.0.0 <br>
+- matplotlib           3.1.2 <br>
+- seaborn              0.10.0 <br>
+- scikit-learn         0.22.1 <br>
+- PyXGBoost            1.0.9 <br>
+- xgboost              0.90 <br>
+- scipy                1.4.1 <br>
 
 
 The more details of the proposed framework are coming soon- <br>
